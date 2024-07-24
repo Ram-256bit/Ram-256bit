@@ -1,3 +1,3 @@
 ![Metrics](/metrics.plugin.isocalendar.svg)
 
-![Leetcode](/metrics.plugin.leetcode.svg)
+![LeetCode Stats](https://leetcode.card.workers.dev/AIML_22ALR075?theme=auto&font=baloo&extension=null)
