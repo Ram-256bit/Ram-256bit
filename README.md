@@ -6,3 +6,7 @@
 
 # LeetCode Stats
 ![LeetCode Stats](https://leetcode.card.workers.dev/raamm?theme=auto&font=baloo&extension=null)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
